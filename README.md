@@ -1,79 +1,68 @@
-<p align="center">
-  <a href="https://developer-portfolio-1icm.onrender.com/">
-    <img src="./dara-parallax.gif" width="100%" alt="Somnang Dara · Backend APIs and databases. A violet chip stack rotates over a perspective grid." />
-  </a>
-</p>
+<!--
+  HOW TO USE THIS FILE
+  1. On GitHub, create a PUBLIC repo named exactly the same as your username
+     (example: username "somnangdara" -> repo "somnangdara").
+  2. Tick "Add a README file", then paste this whole file into README.md.
+  3. Search for YOUR_USERNAME and replace it with your real GitHub username.
+  4. Search for "TODO" and fill in the links.
+  Comments like this one are invisible on your profile.
+-->
+
+<!-- ===== HEADER ===== -->
+<h1 align="center">Hi, I’m Somnang Dara 👋</h1>
 
 <p align="center">
-  <a href="https://developer-portfolio-1icm.onrender.com/"><strong>Portfolio ↗</strong></a>
-  &nbsp;·&nbsp;
-  <a href="#featured-projects">Featured projects</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/DaraCOOKED?tab=repositories">Repositories</a>
-  &nbsp;·&nbsp;
-  <a href="https://developer-portfolio-1icm.onrender.com/#contact">Get in touch</a>
+  Full stack developer in Cambodia 🇰🇭<br>
+  I build <b>backend APIs</b>, <b>databases</b>, and the web apps that use them.
 </p>
 
+<!-- Badges: change the text or color if you like -->
 <p align="center">
-  <img width="560" alt="Locker access with Laravel, catalog APIs with Spring Boot, and time-zone-aware totals in AquaTrack" src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=1600&amp;color=DCCAFF&amp;background=0D0A15&amp;center=true&amp;vCenter=true&amp;width=560&amp;height=46&amp;lines=Laravel+%2F+Locker+access;Spring+Boot+%2F+Catalog+APIs;AquaTrack+%2F+Time-zone-aware+totals" />
+  <img src="https://img.shields.io/badge/Laravel-backend-8b5cf6?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/Nuxt_3-frontend-8b5cf6?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt 3">
+  <img src="https://img.shields.io/badge/Open_to-internships-c084fc?style=for-the-badge" alt="Open to internships">
 </p>
 
+<!-- ===== ABOUT ===== -->
 ## About me
 
-I’m **Somnang Dara**, a **Web & Mobile Application Development student at PSE Institute** in Phnom Penh, Cambodia. I’m working toward becoming a full-stack developer, with a focus on backend APIs and databases.
+- 🎓 Student and junior developer
+- ⚙️ I enjoy the hidden parts of an app: REST APIs, database design, and clean data flow
+- 🖥️ I build the front end with Vue and Nuxt 3 so everything works end to end
+- 🌱 Currently improving my backend skills and looking for internships or junior roles
 
-In **AquaTrack**, I built daily totals around each user’s time zone so a drink logged just before midnight counts toward the right day.
-
-## Featured projects
-
-| Project | What it does |
-| --- | --- |
-| **[Smart Locker System][locker]** | Assigns lockers, issues one-time access codes, and tracks usage from pickup to return. Built with Laravel and PostgreSQL. |
-| **[Lumiere Beauty][lumiere]** | Connects a React cosmetics storefront to a Spring Boot and PostgreSQL backend. I practice Spring Data JPA through the category API. |
-| **[AquaTrack][aqua]** | Lets users log drinks, edit past entries, and track progress toward a daily hydration goal. Built with React and Laravel. |
-| **[Toothsy Dental Clinic][toothsy]** · [Source][toothsy-code] | Helps patients explore treatments and request appointments. The Nuxt booking form sends requests through EmailJS. |
-| **[Developer Portfolio][portfolio]** | A scroll-driven portfolio with a violet astronaut hero, project walkthroughs, live demos, and source links. |
-
+<!-- ===== TECH STACK ===== -->
 ## Tech stack
 
-<p align="center">
-  <img width="540" alt="Scrolling icons for PHP, Laravel, Java, Node.js, Express.js, PostgreSQL, and MySQL" src="https://readme-stats-theta-sepia.vercel.app/api/tech-icon-marquee?techs=php,laravel,java,nodejs,express,postgresql,mysql&amp;theme=bg&amp;width=540" />
+<!-- skillicons.dev draws the icons. Add or remove names in the list. -->
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,postgres,nodejs,vue,nuxt,js,html,css,tailwind,git,github,figma" alt="Tech stack icons">
 </p>
 
-| Area | Technologies |
-| --- | --- |
-| **Backend** | PHP · Laravel · Java · Spring Boot · Node.js · Express.js |
-| **Databases** | PostgreSQL · MySQL · MongoDB |
-| **Frontend** | HTML · CSS · JavaScript · React · Next.js · Vue.js · Nuxt.js · Tailwind CSS |
-| **Tools** | Git · GitHub · Docker · Linux · Figma · Postman · VS Code |
+<!-- ===== FEATURED PROJECTS ===== -->
+## Featured projects
 
-## GitHub activity
+<!-- Replace each # with the real link. Delete the "Live demo" part if there is none. -->
+| Project | What it is | Stack | Links |
+| --- | --- | --- | --- |
+| **Smart Locker System** | Find a locker and book it in a few taps | Laravel, MySQL, Nuxt 3 | [Live demo](#) · [Source](#) |
+| **Lumiere Beauty** | Beauty product store with cart and orders | Nuxt 3, Laravel, MySQL | [Live demo](#) · [Source](#) |
+| **AquaTrack** | Water usage tracker with a daily summary API | Laravel, PostgreSQL, Vue | [Live demo](#) · [Source](#) |
+| **Toothsy Dental Clinic** | Clinic website powered by a Strapi backend | Nuxt 3, Strapi v5 | [Live demo](#) · [Source](#) |
 
-<p align="center">
-  <img width="680" alt="Violet 3D skyline of DaraCOOKED’s GitHub contributions, animated in a wave" src="https://ssr-contributions-svg.vercel.app/_/DaraCOOKED?chart=3dbar&amp;format=svg&amp;weeks=26&amp;colors=28233B,4B346E,7551A9,A889EA,E7DAFF&amp;dark=true&amp;gradient=true&amp;animation=wave&amp;animation_amplitude=7&amp;animation_frequency=0.04" />
-  <br />
-  <sub>26 weeks of GitHub contributions</sub>
+<!-- ===== GITHUB STATS ===== -->
+## GitHub stats
+
+<!-- Replace YOUR_USERNAME in all three links below -->
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top languages">
 </p>
 
-<details>
-<summary>Contribution snake and stats</summary>
+<!-- ===== CONTACT ===== -->
+## Let’s connect
 
-![Animated violet snake moving through my contribution calendar][snake]
-
-<p align="center">
-  <img width="48%" alt="GitHub statistics for DaraCOOKED" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaraCOOKED&amp;theme=tokyonight" />
-  <img width="48%" alt="Programming languages by repository count" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaraCOOKED&amp;theme=tokyonight" />
-</p>
-
-![Daily GitHub contributions over the last 31 days][activity]
-
-</details>
-
-[portfolio]: https://developer-portfolio-1icm.onrender.com/
-[locker]: https://github.com/kongsocheata9564-lgtm/smart-locker-system
-[lumiere]: https://github.com/limnimoldev-netizen/lumiere_beauty
-[aqua]: https://github.com/DaraCOOKED/aquatrack-individual
-[toothsy]: https://toothsydentalclinic.com/
-[toothsy-code]: https://github.com/DaraCOOKED/Toothsy-Dental-Clinic
-[activity]: https://github-readme-activity-graph.vercel.app/graph?username=DaraCOOKED&days=31&bg_color=0D0A15&color=CDBBF2&line=9B72E8&point=E7DAFF&area=true&area_color=6948A2&grid=false&hide_border=true&radius=12&custom_title=Contributions%20in%20the%20last%2031%20days
-[snake]: https://readme-stats-theta-sepia.vercel.app/api/snake?username=DaraCOOKED&palette=github-dark&color_snake=%23DDD6FE&color_dots=%23191A28,%23382A53,%23654AA1,%239778E5,%23CAB8FF&color_background=%230B0C12
+<!-- TODO: add your real email and LinkedIn. Delete any line you don't want. -->
+- 🌐 Portfolio: [add your portfolio link here](#)
+- 📧 Email: your@email.com
+- 💼 LinkedIn: [add your LinkedIn link here](#)
