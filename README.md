@@ -1,11 +1,7 @@
 <p align="center">
   <a href="https://developer-portfolio-1icm.onrender.com/">
-    <img width="100%" alt="Somnang Dara · Backend, APIs, and databases" src="https://github-animatedbanner.vercel.app/api/banner.svg?type=circuit&amp;width=960&amp;height=290&amp;gradientType=radial&amp;color=47287F%400,211335%4040,08060E%40100&amp;pattern=grid&amp;particles=stars&amp;overlay=vignette&amp;text=Somnang%20Dara&amp;desc=Backend%20%C2%B7%20APIs%20%C2%B7%20Databases&amp;fontSize=74&amp;fontColor=%23F7F1FF&amp;descFontSize=25&amp;descColor=%23D5C6F7&amp;animation=float" />
+    <img src="./dara-parallax.gif" width="100%" alt="Somnang Dara · Backend APIs and databases. A violet chip stack rotates over a perspective grid." />
   </a>
-</p>
-
-<p align="center">
-  <img width="560" alt="Locker access with Laravel, catalog APIs with Spring Boot, and time-zone-aware totals in AquaTrack" src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=1600&amp;color=DCCAFF&amp;background=0D0A15&amp;center=true&amp;vCenter=true&amp;width=560&amp;height=46&amp;lines=Laravel+%2F+Locker+access;Spring+Boot+%2F+Catalog+APIs;AquaTrack+%2F+Time-zone-aware+totals" />
 </p>
 
 <p align="center">
@@ -18,9 +14,13 @@
   <a href="https://developer-portfolio-1icm.onrender.com/#contact">Get in touch</a>
 </p>
 
+<p align="center">
+  <img width="560" alt="Locker access with Laravel, catalog APIs with Spring Boot, and time-zone-aware totals in AquaTrack" src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=1600&amp;color=DCCAFF&amp;background=0D0A15&amp;center=true&amp;vCenter=true&amp;width=560&amp;height=46&amp;lines=Laravel+%2F+Locker+access;Spring+Boot+%2F+Catalog+APIs;AquaTrack+%2F+Time-zone-aware+totals" />
+</p>
+
 ## About me
 
-I’m **Somnang Dara**, a **Web & Mobile Application Development student at PSE Institute** in Phnom Penh, Cambodia. I’m working toward becoming a full-stack developer with a focus on backend APIs and databases.
+I’m **Somnang Dara**, a **Web & Mobile Application Development student at PSE Institute** in Phnom Penh, Cambodia. I’m working toward becoming a full-stack developer, with a focus on backend APIs and databases.
 
 In **AquaTrack**, I built daily totals around each user’s time zone so a drink logged just before midnight counts toward the right day.
 
@@ -56,7 +56,9 @@ In **AquaTrack**, I built daily totals around each user’s time zone so a drink
 </p>
 
 <details>
-<summary><strong>Stats, activity graph, and contribution snake</strong></summary>
+<summary>Contribution snake and stats</summary>
+
+![Animated violet snake moving through my contribution calendar][snake]
 
 <p align="center">
   <img width="48%" alt="GitHub statistics for DaraCOOKED" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaraCOOKED&amp;theme=tokyonight" />
@@ -65,15 +67,7 @@ In **AquaTrack**, I built daily totals around each user’s time zone so a drink
 
 ![Daily GitHub contributions over the last 31 days][activity]
 
-![Animated violet snake moving through my contribution calendar][snake]
-
 </details>
-
----
-
-<p align="center">
-  <a href="https://developer-portfolio-1icm.onrender.com/"><strong>Explore the live demos and project walkthroughs ↗</strong></a>
-</p>
 
 [portfolio]: https://developer-portfolio-1icm.onrender.com/
 [locker]: https://github.com/kongsocheata9564-lgtm/smart-locker-system
